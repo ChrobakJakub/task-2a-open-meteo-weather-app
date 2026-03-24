@@ -1,0 +1,11 @@
+```gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+output/forecast.csv
+output/summary.txt
+output/temperature_chart.png
