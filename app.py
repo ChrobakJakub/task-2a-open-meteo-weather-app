@@ -3,10 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from pathlib import Path
 
-
-# =========================
-# CONFIG
-# =========================
 CITY_NAME = "Warsaw"
 LATITUDE = 52.2297
 LONGITUDE = 21.0122
